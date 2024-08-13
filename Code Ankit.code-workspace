@@ -1,0 +1,18 @@
+{
+    "folders": [
+		{
+			"name": "Code Ankit",
+			"path": "../.."
+		},
+		{
+			"name": "My Portfolio",
+			"path": "../../../My Portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "My Portfolio"
+    }
+}
